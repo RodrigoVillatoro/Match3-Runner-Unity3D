@@ -22,3 +22,8 @@ A character is running endlessly on a plane. It has to catch as many gems as pos
 
 ###### Art and assets:
 - Assets courtesy of mikelovesrobots: http://u3d.as/bmx. So much great stuff here.
+
+
+---
+
+To build this project you need to have Unity 3D installed. This project was made with Unity version 5.1.0f3, you need to consider this in case of compatibility issues. All the assests are available in this respository. 
